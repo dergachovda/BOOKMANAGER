@@ -19,8 +19,8 @@
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
         <property name="url"
                   value="jdbc:mysql://localhost:3306/BOOKMANAGER"/>
-        <property name="username" value="root"/>
-        <property name="password" value="ВАШ ПАРОЛЬ"/>
+        <property name="username" value="adminbKxQE5T"/>
+        <property name="password" value="KaG9hDZVZbil"/>
     </bean>
 
     <!-- Hibernate 4 SessionFactory Bean definition -->

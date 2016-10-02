@@ -1,3 +1,2 @@
-The OpenShift `jbossews` cartridge documentation can be found at:
-
-http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
+The My First Project by Spring:
+http://spring-dergachovda.rhcloud.com

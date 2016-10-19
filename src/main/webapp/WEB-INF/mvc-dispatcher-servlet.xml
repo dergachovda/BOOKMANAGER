@@ -18,9 +18,9 @@
           destroy-method="close">
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
         <property name="url"
-                  value="jdbc:mysql://127.6.41.130:3306/BOOKMANAGER"/>
-        <property name="username" value="adminbKxQE5T"/>
-        <property name="password" value="KaG9hDZVZbil"/>
+                  value="jdbc:mysql://revivalc.mysql.ukraine.com.ua/revivalc_spring"/>
+        <property name="username" value="revivalc_spring"/>
+        <property name="password" value="1234"/>
     </bean>
 
     <!-- Hibernate 4 SessionFactory Bean definition -->
